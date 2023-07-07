@@ -2,4 +2,4 @@
 The original extension on the Chrome Web Store got DMCA'd by Pixlr.
 Because of that, I've decided to open source it.
 
-A CRX file can be found in the [releases tab](/releases).
+A CRX file can be found in the [releases tab](https://github.com/ClaytonTDM/daily-saves-for-pixlr/releases).
