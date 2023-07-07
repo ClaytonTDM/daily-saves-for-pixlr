@@ -1,0 +1,25 @@
+{
+"update_url": "https://clients2.google.com/service/update2/crx",
+
+  "name": "Pixlr Unlimited Daily Saves",
+  "version": "1.0.0",
+  "manifest_version": 3,
+  "description": "Removes the 2 saves per day limit on Pixlr apps.",
+  "icons": {
+    "96": "icons/icon.png"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://pixlr.com/*"
+      ],
+      "js": [
+        "src/inject/inject.js"
+      ]
+    }
+  ],
+  "web_accessible_resources": [{
+    "resources": ["src/inject/inject.js"],
+    "matches": ["https://pixlr.com/*"]
+  }]
+}
