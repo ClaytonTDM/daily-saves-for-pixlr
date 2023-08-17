@@ -14,6 +14,7 @@ A CRX file can be found in the [releases tab](https://github.com/ClaytonTDM/dail
 3. Go to chrome://extensions
 
 4. Make sure Developer mode is on
+
 ![image](https://github.com/ClaytonTDM/daily-saves-for-pixlr/assets/71360210/d7337746-c99c-4664-ba22-6f1d68e6d575)
 
 5. Click Load unpacked and select the folder you extracted to (the folder should have a file named "manifest.json" inside it)
