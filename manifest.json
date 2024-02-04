@@ -1,12 +1,11 @@
 {
-"update_url": "https://clients2.google.com/service/update2/crx",
-
-  "name": "Pixlr Unlimited Daily Saves",
+  "name": "Unlimited Daily Saves for Pixlr.com",
   "version": "1.0.0",
   "manifest_version": 3,
-  "description": "Removes the 2 saves per day limit on Pixlr apps.",
+  "description": "Removes the 3 saves per day limit on Pixlr apps.",
   "icons": {
-    "96": "icons/icon.png"
+    "96": "icons/confetticheese-96.png",
+    "512": "icons/confetticheese-512.png"
   },
   "content_scripts": [
     {
@@ -18,8 +17,14 @@
       ]
     }
   ],
-  "web_accessible_resources": [{
-    "resources": ["src/inject/inject.js"],
-    "matches": ["https://pixlr.com/*"]
-  }]
+  "web_accessible_resources": [
+    {
+      "resources": [
+        "src/inject/inject.js"
+      ],
+      "matches": [
+        "https://pixlr.com/*"
+      ]
+    }
+  ]
 }

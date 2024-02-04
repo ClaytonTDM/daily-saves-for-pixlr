@@ -1,10 +1,12 @@
 # Pixlr Unlimited Daily Saves
+
 The original extension on the Chrome Web Store [got DMCA'd by Pixlr](https://www.lumendatabase.org/notices/34809232).
 Because of that, I've decided to open source it.
 
 A CRX file can be found in the [releases tab](https://github.com/ClaytonTDM/daily-saves-for-pixlr/releases).
 
 ## How To Use
+
 1. Download this repo as a .zip file
 
 ![image](https://github.com/ClaytonTDM/daily-saves-for-pixlr/assets/71360210/380fda3b-b5f8-4ca1-8333-eb9bd792d269)
