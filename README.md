@@ -3,7 +3,7 @@
 The original extension on the Chrome Web Store [got DMCA'd by Pixlr](https://www.lumendatabase.org/notices/34809232).
 Because of that, I've decided to open source it.
 
-A CRX file can be found in the [releases tab](https://github.com/ClaytonTDM/daily-saves-for-pixlr/releases). an XPI will be available soon.
+A CRX file can be found in the [releases tab](https://github.com/ClaytonTDM/daily-saves-for-pixlr/releases). An XPI will be available soon.
 
 ## How To Use
 
@@ -15,10 +15,10 @@ A CRX file can be found in the [releases tab](https://github.com/ClaytonTDM/dail
 
 3. Go to about:debugging
 
-4. Click "This Firefox"
+4. Click "This Firefox" on the left side
 
-![image](https://github.com/ClaytonTDM/daily-saves-for-pixlr/assets/71360210/d7337746-c99c-4664-ba22-6f1d68e6d575)
+![image](https://github.com/ClaytonTDM/daily-saves-for-pixlr/assets/71360210/19275460-d1ec-4813-8db0-dfca60135879)
 
 5. Click "Load Temporary Add-on" and select the `manifest.json` file in the folder you extracted the .zip to
 
-6. Enable the extension
+![image](https://github.com/ClaytonTDM/daily-saves-for-pixlr/assets/71360210/cd7b7d51-e7ce-4272-a6f5-a8c336f2d077)
