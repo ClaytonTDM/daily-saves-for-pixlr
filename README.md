@@ -1,4 +1,4 @@
-# Pixlr Unlimited Daily Saves
+# Unlimited Daily Saves for Pixlr.com
 
 The original extension on the Chrome Web Store [got DMCA'd by Pixlr](https://www.lumendatabase.org/notices/34809232).
 Because of that, I've decided to open source it.
