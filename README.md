@@ -1,9 +1,11 @@
 # Unlimited Daily Saves for Pixlr.com
+**The extension is now back up on etension stores, with an addition of a Firefox version!**
 
-The original extension on the Chrome Web Store [got DMCA'd by Pixlr](https://www.lumendatabase.org/notices/34809232).
-Because of that, I've decided to open source it.
+https://addons.mozilla.org/en-US/firefox/addon/daily-saves-pixlr/
 
-A CRX file can be found in the [releases tab](https://github.com/ClaytonTDM/daily-saves-for-pixlr/releases).
+https://chromewebstore.google.com/detail/unlimited-daily-saves-for/kfkngbmnecfnbmlkoefbeapmmlockcfa.
+
+CRX and XPI files can be found in the [releases tab](https://github.com/ClaytonTDM/daily-saves-for-pixlr/releases).
 
 ## How To Use
 
