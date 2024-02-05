@@ -9,6 +9,8 @@ CRX and XPI files can be found in the [releases tab](https://github.com/ClaytonT
 
 ## How To Use
 
+**<ins>Firefox</ins> instructions are available on [the Firefox branch](https://github.com/ClaytonTDM/daily-saves-for-pixlr/tree/firefox-v1.0.0#readme).**
+
 1. Download this repo as a .zip file
 
 ![image](https://github.com/ClaytonTDM/daily-saves-for-pixlr/assets/71360210/380fda3b-b5f8-4ca1-8333-eb9bd792d269)
