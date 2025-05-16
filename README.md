@@ -13,7 +13,13 @@ CRX and XPI files can be found in the [releases tab](https://github.com/ClaytonT
 
 1. Download this repo as a .zip file
 
+For GitHub:
+
 ![image](https://github.com/ClaytonTDM/daily-saves-for-pixlr/assets/71360210/380fda3b-b5f8-4ca1-8333-eb9bd792d269)
+
+For Codeberg:
+
+![image](https://github.com/user-attachments/assets/12be1971-32c7-4abb-bfa9-2cd4d1ac6314)
 
 2. Extract the .zip file to a new folder
 
