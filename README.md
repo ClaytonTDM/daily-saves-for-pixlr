@@ -1,5 +1,5 @@
 # Unlimited Daily Saves for Pixlr.com
-**The extension is now back up on etension stores, with the addition of a Firefox version!**
+**The extension is now back up on extension stores, with the addition of a Firefox version!**
 
 https://addons.mozilla.org/en-US/firefox/addon/daily-saves-pixlr/
 
